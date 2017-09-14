@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SEday2 {
 	public static void main(String[] args) {
-		//demo1();
+		demo1();
 		/*Person p=new Person();
 		System.out.println(p);
 		demo2(p);*/

@@ -17,7 +17,7 @@ public class SEday1 {
 		//demo12();
 		//demo13();
 		//demo14();
-		//demo15();
+		demo15();
 		student s=new student();
 		s.age=100;
 		
